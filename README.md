@@ -5,7 +5,7 @@ Softwares required: MATLAb 2016 or better, Modelsim PE edu 10.4a or better
 Instructions:
 Clone the repository onto your device to access the project.
 
-Open seed_decimal.txt . Enter the values of the 6 seeds. Note that these seeds must be non trival (ie not 0) 
+Open seed_decimal.txt . Enter the values of the 6 seeds. Note that these seeds must be non trival (ie not 0) and sufficiently large.
 
 Open MATLAB. Give the appropriate path so that the project is visible.
 
