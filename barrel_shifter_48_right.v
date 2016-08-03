@@ -1,6 +1,6 @@
 ///////////////////////////////////////////////////////////////////////////
 //                                                                       //
-//			             48 bit right barrel shifter                     //
+//			 48 bit right barrel shifter                     //
 //                                  By                                   //
 //                        Santosh Kumar Krishnan                         //
 //                                                                       //
