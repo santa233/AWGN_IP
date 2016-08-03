@@ -29,9 +29,13 @@ function res = my_log(ii,ln_c_0,ln_c_1,ln_c_2)
     ii = bitsra(ii,47);
     jj =ii;
     count = 0;
-    while(jj < 1)
-        jj = jj*2;
-        count = count + 1;
+    if(jj == 0 )
+        count = 48;
+    else
+        while(jj < 1)
+            jj = jj*2;
+            count = count + 1;
+        end
     end
     expo = count;
     ii = bitsll(ii,count);
