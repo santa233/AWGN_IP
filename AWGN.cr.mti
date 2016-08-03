@@ -1,0 +1,71 @@
+C:/Users/Santosh/Desktop/AWGN/sqrt_module.v {1 {vlog -work work -stats=none C:/Users/Santosh/Desktop/AWGN/sqrt_module.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module sqrt_module
+
+Top level modules:
+	sqrt_module
+
+} {} {}} C:/Users/Santosh/Desktop/AWGN/LZD_16bit.v {1 {vlog -work work -stats=none C:/Users/Santosh/Desktop/AWGN/LZD_16bit.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module LZD_16
+
+Top level modules:
+	LZD_16
+
+} {} {}} C:/Users/Santosh/Desktop/AWGN/log_module.v {1 {vlog -work work -stats=none C:/Users/Santosh/Desktop/AWGN/log_module.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module log_module
+
+Top level modules:
+	log_module
+
+} {} {}} C:/Users/Santosh/Desktop/AWGN/barrel_shifter_48.v {1 {vlog -work work -stats=none C:/Users/Santosh/Desktop/AWGN/barrel_shifter_48.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module barrel_shifter_48
+
+Top level modules:
+	barrel_shifter_48
+
+} {} {}} C:/Users/Santosh/Desktop/AWGN/barrel_shifter_48_right.v {1 {vlog -work work -stats=none C:/Users/Santosh/Desktop/AWGN/barrel_shifter_48_right.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module barrel_shifter_48_right
+
+Top level modules:
+	barrel_shifter_48_right
+
+} {} {}} C:/Users/Santosh/Desktop/AWGN/LZD_32bit.v {1 {vlog -work work -stats=none C:/Users/Santosh/Desktop/AWGN/LZD_32bit.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module LZD_32
+
+Top level modules:
+	LZD_32
+
+} {} {}} C:/Users/Santosh/Desktop/AWGN/AWGN.v {1 {vlog -work work -stats=none C:/Users/Santosh/Desktop/AWGN/AWGN.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module AWGN
+
+Top level modules:
+	AWGN
+
+} {} {}} C:/Users/Santosh/Desktop/AWGN/LZD_2bit.v {1 {vlog -work work -stats=none C:/Users/Santosh/Desktop/AWGN/LZD_2bit.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module LZD_2bit
+
+Top level modules:
+	LZD_2bit
+
+} {} {}} C:/Users/Santosh/Desktop/AWGN/cosine_module.v {1 {vlog -work work -stats=none C:/Users/Santosh/Desktop/AWGN/cosine_module.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module cosine_module
+
+Top level modules:
+	cosine_module
+
+} {} {}} C:/Users/Santosh/Desktop/AWGN/tb_AWGN.v {1 {vlog -work work -stats=none C:/Users/Santosh/Desktop/AWGN/tb_AWGN.v
+Model Technology ModelSim PE Student Edition vlog 10.4a Compiler 2015.03 Apr  7 2015
+-- Compiling module tb_AWGN
+
+Top level modules:
+	tb_AWGN
+
+} {} {}}
