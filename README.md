@@ -9,12 +9,7 @@ Open seed_decimal.txt . Enter the values of the 6 seeds. Note that these seeds m
 Open MATLAB. Give the appropriate path so that the project is visible.
 
 Open try1.m and click run.
-The following files will be created:
--norm_dist_values.txt
--sqrt_values.txt
--cosin_values.txt
--log_values.txt
--seed_hex.txt
+The following files will be created: norm_dist_values.txt, sqrt_values.txt, cosin_values.txt, log_values.txt, seed_hex.txt
 You will also see the histohram of the normal distribution values generated and the result of kstest on the console(it should br 0)
 
 Open ModelSim. Hover over file, click open project.
