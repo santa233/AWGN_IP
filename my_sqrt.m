@@ -29,9 +29,13 @@ function res = my_sqrt(ii,sqrt_1_2_c_0,sqrt_1_2_c_1,sqrt_2_4_c_0,sqrt_2_4_c_1)
     ii = bitsra(ii,25);
     jj =ii;
     count = 0;
-    while(jj <= 64)
-        jj = jj*2;
-        count = count + 1;
+    if(jj == 0)
+        count = 31;
+    else
+        while(jj <= 64)
+            jj = jj*2;
+            count = count + 1;
+        end
     end
     expo = 5 - count;
     expo_p = expo;
