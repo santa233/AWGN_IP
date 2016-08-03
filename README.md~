@@ -2,7 +2,6 @@
 
 Softwares required: MATLAb 2016 or better, Modelsim PE edu 10.4a or better
 
-Instructions:
 Clone the repository onto your device to access the project.
 
 Open seed_decimal.txt . Enter the values of the 6 seeds. Note that these seeds must be non trival (ie not 0) 
@@ -22,6 +21,3 @@ The simulation window opens. On the left is the top module and the instantiated 
 Run the simulation for 100500ns.
 
 Observe the error signals for awgn, cosine, log and square root. if the difference between theoretical and actual value exceed the threshold, the respective error signal is incremented.You can also view the output of the awgn core by viewing the awgn_out signal.
-
-Important comments:
-You can get the coefficients for the polynomials by using the fminimax and polyfit functions however they are a part of the optimization toolchain that are not included in the standard MATLAB software that I have(it costs $30 to buy the toolchain from Mathworks). So I used a software called MAPLE. It has a function called minimax which does the same thing. And the best thing is that it has a trial version that is available for 15 days for a cost of only $10. The coefficients obtained by this function in MAPLE corroborate with the results in the paper mentioned in the documentation. The error between the polynomial approximation and the actual matlab function is identical to the similar error E_approx  considered in the paper.
