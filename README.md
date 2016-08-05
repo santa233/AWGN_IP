@@ -2,6 +2,9 @@
 
 Softwares required: MATLAb 2016 or better, Modelsim PE edu 10.4a or better
 
+Important notes:
+Assumed that seed values,clock are available before reset is pulled to 0.
+
 Instructions:
 Clone the repository onto your device to access the project.
 
